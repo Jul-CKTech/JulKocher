@@ -1,12 +1,9 @@
 ![1667261088380](https://user-images.githubusercontent.com/110691872/201821251-d33fba4c-9ec7-4fd8-8395-32f88440b802.jpeg)
 <h1 align="center">Hi 👋, I'm Julia</h1>
-<h3 align="center">👩🏻‍🎓Professional (nerd) QA Automation Engineer with 6+ years of experience from USA</h3>
+<h3 align="center">👩🏻‍🎓Professional(nerd) QA Automation Engineer with 6+ years of experience from USA</h3>
 
-<img align="right" alt="coding" width="400" scr="https://ibb.co/S0WZV55">
-
+<img align="right" alt="coding" width="400" src="https://i.ibb.co/7V80rjj/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julkocher&label=Profile%20views&color=0e75b6&style=flat" alt="julkocher" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julkocher" alt="julkocher" /></a> </p>
 
 - 🔭 I’m currently working on **Investment platform**
 
@@ -20,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/julia kochergina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julia kochergina" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/julia-kochergina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/julia-kochergina" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
