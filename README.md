@@ -3,7 +3,7 @@
 
 
 - 👋 Hi, I’m Julia Kochergina 
-- Professional(nerd) QA Automation Engineer with 6+ years of experience from USA
+- 👩🏻‍🎓 Proffessional (nerd) QA Automation Engineer with 6+ years of experience from USA
 - 👀 I’m interested in world advanced technologies 
 - 🌱 I’m currently learning and practicing TypeScript.
 - 📫 How to reach me - julkocher3008@gmail.com
