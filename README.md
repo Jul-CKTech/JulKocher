@@ -1,3 +1,7 @@
+![1667261088380](https://user-images.githubusercontent.com/110691872/201821251-d33fba4c-9ec7-4fd8-8395-32f88440b802.jpeg)
+
+
+
 - 👋 Hi, I’m Julia Kochergina 
 - Professional(nerd) QA Automation Engineer with 6+ years of experience from USA
 - 👀 I’m interested in world advanced technologies 
