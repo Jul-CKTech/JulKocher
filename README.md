@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="400" src="https://i.ibb.co/7V80rjj/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966.gif">
 
 
-- 🔭 I’m currently working on **Investment platform**
+- 🔭 I’m currently working on ** creating an Investment platform**
 
 - 🌱 I’m currently learning **and practicing TypeScript**
 
