@@ -1,4 +1,5 @@
-![1667261088380](https://user-images.githubusercontent.com/110691872/201821251-d33fba4c-9ec7-4fd8-8395-32f88440b802.jpeg)
+![JKocherCard](https://user-images.githubusercontent.com/110691872/213619204-a45a0315-04f5-4169-aeea-e844d35a24f4.jpg)
+
 <h1 align="center">Hi 👋, I'm Julia</h1>
 <h3 align="center">👩🏻‍🎓Professional(nerd) QA Automation Engineer with 6+ years of experience from USA</h3>
 
